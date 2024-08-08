@@ -1,0 +1,9 @@
+export const cardsConfig = {
+    people:  [
+        { id: 1, name: 'Carlos Serrato', image: '/carlos.jpg', career: 'Ingeniería de Sistemas, Ingeniería Multimedia', description: 'Curso el octavo semestre de Ingeniería Multimedia y séptimo de Ingeniería de Sistemas en la Universidad de San Buenaventura Cali. Actualmente me dedico a realizar proyectos multimediales y de desarrollo de software.', github: 'https://github.com/nostcoper' },
+        { id: 2, name: 'Gustavo Camargo', image: '/gustavo.jpg', career: 'Ingeniería de Sistemas', description: 'Curso el sexto semestre de Ingeniería de Sistemas en la Universidad de San Buenaventura Cali. Actualmente trabajo en Intellsis como líder del back-end, implementando soluciones tecnológicas para la industria minera.', github: 'https://github.com/SrOscuroBlck' },
+        { id: 3, name: 'Jorge Agualimpia', image: '/jorge.jpg', career: 'Ingeniería de Sistemas', description: 'Curso el noveno semestre de Ingeniería de Sistemas en la Universidad de San Buenaventura Cali. Actualmente trabajo con temas de infraestructura de datos, procesos de ETL e inteligencia artificial.', github: 'https://github.com/jaagualimpia' },
+        { id: 4, name: 'Mariana Cruz', image: '/mariana.jpeg', career: 'Ingeniería de Sistemas', description: 'Curso el sexto semestre de Ingeniería de Sistemas en la Universidad de San Buenaventura Cali. Actualmente dirijo el Semillero de Investigación PADIA bajo el acompañamiento del PhD Giovanny Hidalgo.', github: 'https://github.com/IngMariCruz' },
+        { id: 5, name: 'Sebastián Dosman', image: '/sebastian.jpeg', career: 'Ingeniería de Sistemas', description: 'Curso el séptimo semestre de Ingeniería de Sistemas en la Universidad de San Buenaventura Cali. Actualmente soy desarrollador full stack e interesado en la analítica de datos e inteligencia artificial.', github: 'https://github.com/SebasDosman' }
+    ]
+};
